@@ -1,0 +1,20 @@
+uuid: e64369e2-9f43-4abb-9b24-8d290154e2f7
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_pieejamiba_noliktava
+field_name: field_pieejamiba_noliktava
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

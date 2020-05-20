@@ -1,0 +1,25 @@
+uuid: 3dd9a99a-467a-443b-b522-8c9de32044cc
+langcode: en
+status: true
+dependencies:
+  config:
+    - comment.type.produkts
+id: comment.produkts.default
+targetEntityType: comment
+bundle: produkts
+mode: default
+content:
+  author:
+    weight: -2
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  subject:
+    type: string_textfield
+    weight: 10
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

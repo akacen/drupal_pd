@@ -1,0 +1,8 @@
+uuid: ecf3af3e-fab2-4502-a333-ae76d99450fb
+langcode: en
+status: true
+dependencies: {  }
+id: produkts
+label: Produkts
+target_entity_type_id: block_content
+description: ''

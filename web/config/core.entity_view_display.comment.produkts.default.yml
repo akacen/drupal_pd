@@ -1,0 +1,17 @@
+uuid: bc3201e1-18e9-4980-96e8-6b9ef4dc34d5
+langcode: en
+status: true
+dependencies:
+  config:
+    - comment.type.produkts
+id: comment.produkts.default
+targetEntityType: comment
+bundle: produkts
+mode: default
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }

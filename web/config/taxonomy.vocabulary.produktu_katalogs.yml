@@ -1,0 +1,8 @@
+uuid: 2521e5ea-537a-483d-bfde-ac7166f4b818
+langcode: en
+status: true
+dependencies: {  }
+name: 'Produktu katalogs'
+vid: produktu_katalogs
+description: ''
+weight: 0
