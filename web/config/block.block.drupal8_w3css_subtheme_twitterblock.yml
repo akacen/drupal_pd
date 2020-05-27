@@ -1,0 +1,36 @@
+uuid: be79c4d9-3913-46b2-a1b1-01a3c7078090
+langcode: en
+status: true
+dependencies:
+  module:
+    - twitter_block
+  theme:
+    - drupal8_w3css_subtheme
+id: drupal8_w3css_subtheme_twitterblock
+theme: drupal8_w3css_subtheme
+region: sidebar_second
+weight: 0
+provider: null
+plugin: twitter_block
+settings:
+  id: twitter_block
+  label: 'Twitter block'
+  provider: twitter_block
+  label_display: visible
+  username: GoodFuds
+  theme: ''
+  link_color: ''
+  width: ''
+  height: ''
+  chrome:
+    noheader: '0'
+    nofooter: '0'
+    noborders: '0'
+    noscrollbar: '0'
+    transparent: '0'
+  border_color: ''
+  language: ''
+  tweet_limit: ''
+  related: ''
+  polite: polite
+visibility: {  }

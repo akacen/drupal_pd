@@ -1,0 +1,24 @@
+uuid: e5e5b847-e365-489e-8b4a-e771291d2e25
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.jaunimu_bloks
+  module:
+    - views
+  theme:
+    - bartik
+id: views_block__jaunimu_bloks_block_1
+theme: bartik
+region: sidebar_second
+weight: 0
+provider: null
+plugin: 'views_block:jaunimu_bloks-block_1'
+settings:
+  id: 'views_block:jaunimu_bloks-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }
