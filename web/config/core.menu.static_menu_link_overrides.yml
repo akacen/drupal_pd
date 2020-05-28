@@ -11,5 +11,11 @@ definitions:
     parent: ''
     enabled: true
     expanded: false
+  helloworld__default_controller_hello:
+    enabled: true
+    menu_name: main
+    parent: ''
+    expanded: false
+    weight: 100
 _core:
   default_config_hash: o4bYR9ZupWb3AsOIizTUG4g-nu1mdJqA59UB7QT-ifQ
